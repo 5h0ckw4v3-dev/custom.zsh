@@ -6,7 +6,7 @@ Como podeis ver en la imagen, en este theme de ZSH podemos tener el nombre de us
 
 Para instalar este theme de ZSH es muy simple.
 
-1.- Instalamos ZSH, en mi caso lo he hecho en Ubuntu basado en WSL.
+1.- Instalamos ZSH, en mi caso lo he hecho en Ubuntu.
 
 ```plaintext
 sudo apt install zsh
